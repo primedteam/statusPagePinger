@@ -1,0 +1,8 @@
+{
+    "apiKey": "",
+    "pageId": "",
+    "metricId": "",
+    "apiBase": "https://api.statuspage.io/v1", 
+    "call": 5,
+    "ip": "1.1.1.1"
+}

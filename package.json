@@ -1,0 +1,13 @@
+{
+  "name": "statusPagePinger",
+  "version": "1.0.0",
+  "description": "A pinger for statuspage.io",
+  "main": "index.js",
+  "repository": "https://github.com/primedteam/statusPagePinger",
+  "author": "Spooder",
+  "license": "MIT",
+  "dependencies": {
+    "https": "^1.0.0",
+    "tcp-ping": "^0.1.1"
+  }
+}
